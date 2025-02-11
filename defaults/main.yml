@@ -1,0 +1,5 @@
+---
+
+# defaults file for myrole
+user_name: "keval"
+branch_name: "master"
